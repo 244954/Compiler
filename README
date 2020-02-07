@@ -1,0 +1,17 @@
+Mateusz Ma³ecki 244954
+
+kompilator
+
+Zawarte pliki:
+-lexer.l - lekser
+-parser.y - parser
+-Makefile - plik Makefile
+-README - plik README
+
+Potrzebne programy:
+-gcc - (Ubuntu 5.4.0-6ubuntu1~16.04.10)
+-flex - flex 2.6.0
+-bison - bison (GNU BISON) 3.0.4
+
+Aby uruchomiæ kompilator nale¿y go uprzednio skompilowaæ za pomoc¹ komendy 'make'.
+Skompilowany kompilator uruchamiamy przy pomocy komendy './kompilator <plik wejœciowy> <plik wyjœciowy>'
